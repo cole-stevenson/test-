@@ -31,5 +31,5 @@ This is a list :</p>
 }
 </code></pre>
 <h2 id="this-is-a-link">This is a Link</h2>
-<p>a link: <a href="www.google.ca">google</a></p>
+<p>a link: <a href="https://www.google.ca">google</a></p>
 
