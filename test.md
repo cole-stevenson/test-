@@ -15,7 +15,8 @@ This is a list :</p>
 <li>also a list item</li>
 </ul>
 <h2 id="this-is-a-picture">This is a picture</h2>
-<p><img src="https://lh3.googleusercontent.com/zI2Qa7YTevKZcTomqt3_1JsOvzPGCeyWqnSyvzmrR0JrGK3yLCckS4bh319A2ixj1kd0QxxQ04s" alt="enter image description here" title="Picture"></p>
+<p><img src="https://lh3.googleusercontent.com/zI2Qa7YTevKZcTomqt3_1JsOvzPGCeyWqnSyvzmrR0JrGK3yLCckS4bh319A2ixj1kd0QxxQ04s" alt="enter image description here" title="Picture"><br>
+<img src="https://lh3.googleusercontent.com/zI2Qa7YTevKZcTomqt3_1JsOvzPGCeyWqnSyvzmrR0JrGK3yLCckS4bh319A2ixj1kd0QxxQ04s=s400" alt="enter image description here"></p>
 <h2 id="this-is-a-quote">This is a quote</h2>
 <p>a quote</p>
 <blockquote>
